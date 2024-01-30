@@ -3,7 +3,7 @@
  #### 활용 모델
 
 <p align="center">
-  <img src=https://github.com/sora3601/migguri_LSTM/assets/125417068/afb2a8ba-5d81-4f5a-813b-0ac3f1682a42](https://github.com/sora3601/migguri_MRC/issues/1#issue-2107869972>
+  <img src=https://github.com/sora3601/migguri_MRC/assets/125417068/08609e4f-e71f-4b8a-9642-2ea46daeb16e>
 </p>
 
  #### 학습 환경
