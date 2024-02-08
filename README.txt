@@ -11,16 +11,10 @@
 ## 모델 아키텍쳐
 
 1-1. Mask R-CNN (미꾸리, 먹이생물 객체인식)
-
-<img src="모델 아키텍쳐 도식도/Mask R-CNN.png">
-
 - Segmentation Task에는 픽셀 단위로 물체를 분류해야 하기 때문에 Mask Branch를 사용하여 작은 FCN(Fully Convolutional Network)를 거쳐 각 ROI에 대해 Binary Mask를 획득
 - Faster R-CNN의 RPN에서 얻은 RoI(Region of Interest)에 대하여 객체의 class를 예측하는 classification branch, bbox regression을 수행하는 bbox regression branch를 예측
 
 1-2. LSTM (성장도(체장, GSI) 시계열 예측)
-
-<img src="모델 아키텍쳐 도식도/LSTM.png">
-
 - RNN(Recurrent Neural Network)의 한 종류
 - 은닉층의 메모리 셀에 입력 게이트, 망각 게이트, 출력 게이트를 추가하여 불필요한 기억을 지우고, 기억해야할 것들을 정합
 
